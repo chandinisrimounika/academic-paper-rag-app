@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+matplotlib
+networkx
+sentence-transformers
+transformers
+scikit-learn
+faiss-cpu
